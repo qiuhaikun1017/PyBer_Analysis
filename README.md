@@ -18,7 +18,7 @@ We first merged the two worksheet together into one single data frame and then u
 We then applied the logic to get the key information including: total drivers, total fares, average fare per ride and driver, and total fare. The below table summarize the result of our analysis. 
 
 ![](compare_with_citytype.png)
-1[](analysis/Chanllengefinal.png)
+![](Chanllengefinal.png)
 According to the above table, we can conclude the following key bullet point.
 
 1) Urban has the biggest number of total ride and total driver, which is 1625 and 2405 respectively, followed by Suburban which is 625 and 490. Rural has the least number of both ride and driver, which is 125 and 78.
