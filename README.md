@@ -11,8 +11,8 @@ Before we started our research, we will first give a brief introduction about th
 ### Main method of grouping data
 We first merged the two worksheet together into one single data frame and then use the powerful groupby() method to group the total ride, “ride_id”,by the city type, as the following codes:
 
-''''ride_count = pyber_data_df.groupby(["type"]).count()["ride_id"]
-'''
+> ride_count = pyber_data_df.groupby(["type"]).count()["ride_id"]
+>
 
 ### Description of the differences in ride-sharing data
 We then applied the logic to get the key information including: total drivers, total fares, average fare per ride and driver, and total fare. The below table summarize the result of our analysis. 
