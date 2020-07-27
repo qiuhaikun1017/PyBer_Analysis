@@ -30,8 +30,8 @@ According to the below table, we can conclude the following key bullet point.
 From the observation that Rural city has the largest value of average fare per drive and ride, while it has the least number of driver, we can conclude the following:
 
 1) The people who live in Rural city may have biggest consumption power and they are willing to pay more for each ride. This may indicate that customer who lives in Rural is a narrow community with wealth. Thus we should provide more luxury or prime riding service in this type of city so that the company can attract more customer and earn more profitable income.
-2) Alternatively, the reason why Rural people are paying more for each ride, may be simply because there is no enough driver in this area. So where there is shortage in supply, in order to have the service, the customer needs to pay more. In this case, we will recommend the CEO to use strategy to have more driver in this area so the total fares value will increase.
+2) Alternatively, the reason why Rural people are paying more for each ride, may be simply because there is no enough driver in this area. So where there is shortage in supply, in order to have the service, the customer needs to pay more. In this case, we will recommend the CEO to use strategy to attract more driver in this area so the total number of driver and total value of fares will increase.
 
 It is also very interest to notice that the ratio of total rides to total drivers. It’s very clear that for each drive in Rural, each driver has about 1.5 rides, while in Urban each driver only has roughly 0.5 ride. This clearly indicates that there is surplus in supply in Urban area. 
 
-3) Thus we will recommend the CEO to either cut the number of driver in Urban area, or alternative design more type of riding service in Urban area so more driver will have the change to serve the clients. 
+3) Thus we will recommend the CEO to either cut the number of driver in Urban area, or alternative introduce more type of riding service, making the services more divisified, in Urban area so that driver will have more change to serve the clients. 
