@@ -15,11 +15,12 @@ We first merged the two worksheet together into one single data frame and then u
 >
 
 ### Description of the differences in ride-sharing data
-We then applied the logic to get the key information including: total drivers, total fares, average fare per ride and driver, and total fare. The below table summarize the result of our analysis. 
+We then applied the logic to get the key information including: total drivers, total fares, average fare per ride and driver, and total fare. The below table summarize the result of our analysis. And furthermore, we create a multi-line graph to present the change of fares over a period of time for each city type. 
 
 ![](compare_with_citytype.png)
 ![](Chanllengefinal.png)
-According to the above table, we can conclude the following key bullet point.
+
+According to the above table/chart, we can conclude the following key bullet point.
 
 1) Urban has the biggest number of total ride and total driver, which is 1625 and 2405 respectively, followed by Suburban which is 625 and 490. Rural has the least number of both ride and driver, which is 125 and 78.
 2) Further to the #1 key point, not surprisingly, the total value of fares in Urban is the largest, which is $39854.38. The second largest is that in Suburban, which is $19356.33. And the last one is that in Rural, which is $4327.93 in total. 
